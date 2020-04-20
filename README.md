@@ -8,10 +8,14 @@ Feel free to request and add new icons.
 
 ## Includes
 
-- [icons with page background](https://github.com/sempostma/cc0-file-icons/tree/master/icons/background/svg)
-- [black](https://github.com/sempostma/cc0-file-icons/tree/master/icons/black/svg)
-- [white](https://github.com/sempostma/cc0-file-icons/tree/master/icons/white/svg)
+- [icons with page background](https://github.com/sempostma/cc0-file-icons/tree/master/background/svg)
+- [black](https://github.com/sempostma/cc0-file-icons/tree/master/black/svg)
+- [white](https://github.com/sempostma/cc0-file-icons/tree/master/white/svg)
+
+## Icons
+
+[Download/View icons](ICONS.md)
 
 ## License
 
-CC0
+[LICENSE CC0](LICENSE)
