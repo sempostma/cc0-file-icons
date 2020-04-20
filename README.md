@@ -18,4 +18,4 @@ Feel free to request and add new icons.
 
 ## License
 
-[LICENSE CC0](LICENSE)
+[CC0](LICENSE)
