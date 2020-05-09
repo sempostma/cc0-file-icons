@@ -1,0 +1,23 @@
+{
+  "name": "cc0-file-icons",
+  "version": "1.0.0",
+  "description": "Free public domain CC0 file icons.",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sempostma/cc0-file-icons.git"
+  },
+  "keywords": [
+    "cc0",
+    "file",
+    "icons",
+    "free",
+    "public",
+    "domain"
+  ],
+  "author": "Sem Postma",
+  "license": "CC0",
+  "bugs": {
+    "url": "https://github.com/sempostma/cc0-file-icons/issues"
+  },
+  "homepage": "https://github.com/sempostma/cc0-file-icons#readme"
+}
