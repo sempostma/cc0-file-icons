@@ -2,6 +2,7 @@
   "name": "cc0-file-icons",
   "version": "1.0.0",
   "description": "Free public domain CC0 file icons.",
+  "main": "exports/index.js",
   "repository": {
     "type": "git",
     "url": "git+https://github.com/sempostma/cc0-file-icons.git"
